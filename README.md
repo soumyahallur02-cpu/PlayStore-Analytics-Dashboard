@@ -81,7 +81,6 @@ The app requires these columns in `Play Store Data.csv`:
 - `Last Updated`
 
 ## Important implementation notes
-
 ### Time restriction
 
 The app uses the `Asia/Kolkata` timezone, so the schedule does not depend on the computer's configured timezone. The chart is visible from **15:00 inclusive to 17:00 exclusive**. At exactly 5:00 PM IST it is hidden.
