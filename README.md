@@ -31,7 +31,6 @@ play_store_analytics_dashboard/
     ├── Play Store Data.csv
     └── User Reviews.csv
 ```
-
 `User Reviews.csv` is included because it was supplied with the project, but the requested chart is based on the Play Store app-level fields and does not require review-text sentiment data.
 
 ## Requirements
