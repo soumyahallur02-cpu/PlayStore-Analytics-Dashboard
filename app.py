@@ -124,7 +124,6 @@ def is_chart_window(now=None):
     # Inclusive start, exclusive end: chart is visible from 3:00 PM to 4:59:59 PM IST.
     return now.hour == 15 or (now.hour == 16)
 
-
 def format_number(value):
     return f"{value:,.0f}"
 
