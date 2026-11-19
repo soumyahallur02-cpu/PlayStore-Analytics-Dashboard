@@ -93,7 +93,6 @@ The Streamlit page must remain open and connected for the 30-second fragment ref
 The current implementation interprets “last update should be Jan month” as **any date in January**, irrespective of year. If your requirement means January of a specific year, update the filter in `app.py` to include the desired year.
 
 ### Chart axes
-
 Average ratings range from 0 to 5, while review counts can be very large. The grouped chart therefore uses two y-axes so both metrics remain readable. Bar heights should be interpreted against their own labeled axis.
 
 ### Aggregation
