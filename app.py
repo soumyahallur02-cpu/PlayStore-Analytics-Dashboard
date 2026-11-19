@@ -119,7 +119,6 @@ def load_and_aggregate(csv_path, modified_time):
     )
     return filtered, summary
 
-
 def is_chart_window(now=None):
     now = now or datetime.now(IST)
     # Inclusive start, exclusive end: chart is visible from 3:00 PM to 4:59:59 PM IST.
