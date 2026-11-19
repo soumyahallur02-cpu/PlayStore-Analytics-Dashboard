@@ -67,7 +67,6 @@ streamlit run app.py
 Streamlit will print a local URL, usually `http://localhost:8501`. Open it in your browser.
 
 ## Data file placement
-
 Keep the CSV files in the `data/` directory with these exact names:
 
 - `Play Store Data.csv`
