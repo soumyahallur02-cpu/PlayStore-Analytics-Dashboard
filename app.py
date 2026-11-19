@@ -84,7 +84,6 @@ def parse_size_mb(value):
         return amount * 1024
     return amount
 
-
 @st.cache_data(show_spinner=False)
 def load_and_aggregate(csv_path, modified_time):
     df = pd.read_csv(csv_path)
