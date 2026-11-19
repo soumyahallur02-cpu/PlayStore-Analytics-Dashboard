@@ -58,7 +58,6 @@ div[data-testid="stDataFrame"] { border:1px solid var(--line); border-radius:14p
 small, .stCaption { color:#91a0bd !important; }
 </style>
 """, unsafe_allow_html=True)
-
 # ----------------------------- Data utilities -------------------------------
 def parse_installs(value):
     """Convert values such as '1,000+' to an integer."""
