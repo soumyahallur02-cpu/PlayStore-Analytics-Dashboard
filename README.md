@@ -60,7 +60,6 @@ source .venv/bin/activate
 ```bash
 pip install -r requirements.txt
 ```
-
 ### 4. Run the dashboard
 
 ```bash
