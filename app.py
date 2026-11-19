@@ -6,7 +6,6 @@ import re
 import pandas as pd
 import plotly.graph_objects as go
 import streamlit as st
-
 # ----------------------------- Page setup -----------------------------------
 st.set_page_config(
     page_title="PlayScope | Store Intelligence",
