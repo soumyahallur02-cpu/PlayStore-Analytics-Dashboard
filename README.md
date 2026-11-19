@@ -107,5 +107,4 @@ Filters are applied to individual app records before category aggregation. Categ
 - **Port already in use:** run `streamlit run app.py --server.port 8502`.
 
 ## License and data
-
 This project is an educational analytics dashboard. Keep the dataset's original attribution and license information when redistributing it.
