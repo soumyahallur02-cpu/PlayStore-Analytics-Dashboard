@@ -51,7 +51,6 @@ Extract the ZIP file and open a terminal in the `play_store_analytics_dashboard`
 python -m venv .venv
 .venv\Scripts\activate
 ```
-
 **macOS / Linux**
 ```bash
 python3 -m venv .venv
