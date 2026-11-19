@@ -2,7 +2,6 @@
 A premium-style Streamlit dashboard that compares the **average app rating** and **total review count** for the top 10 Google Play Store categories by installs.
 
 ## Features
-
 - Reads the supplied Google Play Store dataset.
 - Filters individual apps using all three rules:
   - Average app rating is **4.0 or higher**.
