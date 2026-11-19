@@ -127,7 +127,6 @@ def is_chart_window(now=None):
 def format_number(value):
     return f"{value:,.0f}"
 
-
 # ----------------------------- Sidebar --------------------------------------
 with st.sidebar:
     st.markdown("## ◈ PlayScope")
