@@ -65,7 +65,6 @@ def parse_installs(value):
         return 0
     digits = re.sub(r"[^0-9]", "", str(value))
     return int(digits) if digits else 0
-
 def parse_size_mb(value):
     """Convert Play Store size strings to MB. Unknown/Varies with device -> NaN."""
     if pd.isna(value):
