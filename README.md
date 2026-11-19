@@ -18,7 +18,6 @@ A premium-style Streamlit dashboard that compares the **average app rating** and
 - Includes KPI cards and an expandable category data table.
 
 ## Project structure
-
 ```text
 play_store_analytics_dashboard/
 │
