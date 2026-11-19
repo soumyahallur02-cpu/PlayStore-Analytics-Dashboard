@@ -41,7 +41,6 @@ play_store_analytics_dashboard/
 - Plotly
 
 ## Setup and run
-
 ### 1. Extract the project
 
 Extract the ZIP file and open a terminal in the `play_store_analytics_dashboard` folder.
