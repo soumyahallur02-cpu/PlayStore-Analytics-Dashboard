@@ -1,5 +1,4 @@
 # PlayScope — Play Store Category Intelligence Dashboard
-
 A premium-style Streamlit dashboard that compares the **average app rating** and **total review count** for the top 10 Google Play Store categories by installs.
 
 ## Features
