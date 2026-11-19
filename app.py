@@ -13,7 +13,6 @@ st.set_page_config(
     layout="wide",
     initial_sidebar_state="expanded",
 )
-
 IST = ZoneInfo("Asia/Kolkata")
 DATA_DIR = Path(__file__).parent / "data"
 PLAY_STORE_FILE = DATA_DIR / "Play Store Data.csv"
